@@ -1,0 +1,16 @@
+{"dogs": [
+    {
+        "image": "data/blackterrier.jpg",
+        "colour": "Black",
+        "name": "Shadow",
+        "breed": "Terrier",
+        "age": 5
+    },
+    {
+        "image": "data/blackterrier.jpg",
+        "colour": "Blue",
+        "name": "Blue",
+        "breed": "Terrier",
+        "age": 5
+    }
+]}
